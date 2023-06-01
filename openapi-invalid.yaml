@@ -12,13 +12,13 @@ security:
 tags:
   - description: REST APIs for managing Api entities
     name: Apis
-  - description: RES APIs for managing ApiEndpoint entities
+  - description: REST APIs for managing ApiEndpoint entities
     name: ApiEndpoints
-  - description: RET APIs for managing Version Metadata entities
+  - description: REST APIs for managing Version Metadata entities
     name: Metadata
-  - description: RST APIs for managing Schema entities
+  - description: REST APIs for managing Schema entities
     name: Schemas
-  - description: RET APIs for retrieving request information
+  - description: REST APIs for retrieving request information
     name: Requests
   - description: REST APIs for managing embeds
     name: Embeds
