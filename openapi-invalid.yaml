@@ -10,15 +10,15 @@ servers:
 security:
   - APIKey: [ ]
 tags:
-  - description: REST APIs for managing Api entities
+  - description: REST API for managing Api entities
     name: Apis
-  - description: REST APIs for managing ApiEndpoint entities
+  - description: REST API for managing ApiEndpoint entities
     name: ApiEndpoints
-  - description: REST APIs for managing Version Metadata entities
+  - description: REST APIsfor managing Version Metadata entities
     name: Metadata
-  - description: REST APIs for managing Schema entities
+  - description: REST API for managing Schema entities
     name: Schemas
-  - description: REST APIs for retrieving request information
+  - description: REST APIsfor retrieving request information
     name: Requests
   - description: REST APIs for managing embeds
     name: Embeds
